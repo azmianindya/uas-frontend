@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Gaming",
+      "price": 12000000,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400",
+      "category": "elektronik",
+      "description": "Laptop gaming dengan GPU RTX 4060 dan prosesor i7 generasi terbaru.",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 5000000,
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w-400",
+      "category": "elektronik",
+      "description": "Smartphone dengan kamera 108MP dan baterai 5000mAh.",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Headphone Wireless",
+      "price": 1200000,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "elektronik",
+      "description": "Headphone dengan noise cancellation dan baterai 30 jam.",
+      "stock": 45
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 2500000,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "category": "elektronik",
+      "description": "Smartwatch dengan monitor detak jantung dan GPS.",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "name": "Kemeja Casual",
+      "price": 350000,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400",
+      "category": "fashion",
+      "description": "Kemeja katun premium dengan desain modern.",
+      "stock": 50
+    },
+    {
+      "id": 6,
+      "name": "Sepatu Sneakers",
+      "price": 850000,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "category": "fashion",
+      "description": "Sepatu sneakers dengan sol yang nyaman untuk sehari-hari.",
+      "stock": 40
+    },
+    {
+      "id": 7,
+      "name": "Buku Programming",
+      "price": 250000,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400",
+      "category": "buku",
+      "description": "Buku panduan lengkap pemrograman JavaScript modern.",
+      "stock": 60
+    },
+    {
+      "id": 8,
+      "name": "Mouse Gaming",
+      "price": 750000,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400",
+      "category": "elektronik",
+      "description": "Mouse gaming dengan DPI tinggi dan 6 tombol programmable.",
+      "stock": 35
+    },
+    {
+      "id": 9,
+      "name": "Tas Ransel",
+      "price": 450000,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+      "category": "fashion",
+      "description": "Tas ransel waterproof dengan banyak kompartemen.",
+      "stock": 28
+    },
+    {
+      "id": 10,
+      "name": "Monitor 24 inch",
+      "price": 2800000,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400",
+      "category": "elektronik",
+      "description": "Monitor Full HD dengan refresh rate 144Hz.",
+      "stock": 20
+    },
+    {
+      "id": 11,
+      "name": "Novel Best Seller",
+      "price": 150000,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400",
+      "category": "buku",
+      "description": "Novel fiksi terlaris dengan cerita yang menegangkan.",
+      "stock": 75
+    },
+    {
+      "id": 12,
+      "name": "Kaos Polos",
+      "price": 120000,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "category": "fashion",
+      "description": "Kaos katun 100% dengan berbagai pilihan warna.",
+      "stock": 100
+    }
+  ]
+}
